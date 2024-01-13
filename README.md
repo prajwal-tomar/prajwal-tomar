@@ -21,7 +21,7 @@ I'm always exploring new technologies and methodologies to stay at the forefront
 
 ## 💬 Let's Connect
 
-- LinkedIn: [Prajwal's LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/prajwal-tomar-9472081a5/))
-- Twitter: [@prajwaltomar_]([https://twitter.com/your-twitter-handle](https://twitter.com/PrajwalTomar_))
+- Email: prajwalstomar@gmail.com
+- Twitter: prajwaltomar_
 
 Feel free to reach out if you want to collaborate, discuss tech, or share cool project ideas! Let's build something awesome together! 🚀
