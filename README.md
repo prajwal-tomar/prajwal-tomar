@@ -17,7 +17,7 @@ I'm a passionate software developer at KPMG, where I thrive on creating innovati
 
 ## 🌱 Learning Journey
 
-I'm always exploring new technologies and methodologies to stay at the forefront of software development. Currently, I'm diving into [insert current learning focus].
+I'm always exploring new technologies and methodologies to stay at the forefront of software development. Currently, I'm focused on building and shipping ideas FAST.
 
 ## 💬 Let's Connect
 
