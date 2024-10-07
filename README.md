@@ -4,20 +4,10 @@ I'm a passionate software developer at KPMG, where I thrive on creating innovati
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React, Redux, JavaScript, Tailwind
-- **Backend:** Spring Boot, Java
+- **Frontend:** React, Next, Redux, JavaScript, Tailwind
+- **Backend:** Spring Boot, Java, Supabase
 - **DevOps:** Docker, Jenkins, Terraform
-- **Databases:** MySQL, MongoDB
-
-## 🚀 What I'm Currently Up To
-
-- Crafting delightful user interfaces with React.
-- Building robust and scalable backend solutions with Spring Boot.
-- Automating deployment pipelines and enhancing DevOps practices.
-
-## 🌱 Learning Journey
-
-I'm always exploring new technologies and methodologies to stay at the forefront of software development. Currently, I'm focused on building and shipping ideas FAST.
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
 ## 💬 Let's Connect
 
